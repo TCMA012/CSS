@@ -1,0 +1,29 @@
+CSS values and units
+https://www.w3.org/Style/Examples/007/units.en.html
+The em is simply the font size. 
+In an element with a 2in font, 1em thus means 2in.
+
+The rem (for “root em”) is the font size of the root element of the document.
+
+vw is 1/100th of the window's width
+vh is 1/100th of the window's height
+vmin, whichever is the smallest of vw and vh.
+vmax (specify sizes relative to the reader's window.)
+
+
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units
+Absolute length units
+px	Pixels	1px = 1/96th of 1in
+
+
+
+Relative length units
+em	Font size of the parent. font size of the element itself.
+rem	Font size of the root element. "root em".
+
+
+
+https://css-tricks.com/snippets/css/named-colors-and-hex-equivalents/
+DeepPink
+GreenYellow

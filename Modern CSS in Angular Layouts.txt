@@ -1,0 +1,42 @@
+Modern CSS in Angular: Layouts
+Emma Twersky
+twerske
+https://blog.angular.io/modern-css-in-angular-layouts-4a259dca9127
+
+Flexbox in Angular demo
+https://stackblitz.com/edit/angular-cssflex?file=src%2Fmain.ts
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+CSS Grid in Angular demo
+https://stackblitz.com/edit/angular-modern-cssgrid?file=src%2Fmain.ts
+
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+Flexbox is a good choice for components within your application and small-scale layouts. 
+CSS Grid layout is intended for larger scale layouts.
+
+
+
+@angular/cdk
+layout package provides lightweight utilities to build responsive UIs.
+https://material.angular.io/cdk/layout
+
+
+
+https://web.dev/learn/css/
+
+
+
+https://2020.stateofcss.com/en-US/features/layout/
+
+
+
+https://css-tricks.com/grid-for-layout-flexbox-for-components/
+
+https://ishadeed.com/article/learn-box-alignment/
+https://ishadeed.com/article/grid-layout-flexbox-components/
+
+
+
+https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/

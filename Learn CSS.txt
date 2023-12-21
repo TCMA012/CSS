@@ -1,0 +1,220 @@
+Learn CSS
+https://web.dev/learn/css/
+
+Extrinsic sizing vs intrinsic sizing
+https://codepen.io/web-dot-dev/pen/abpoMBL
+https://codepen.io/web-dot-dev/pen/wvgwOJV
+
+
+
+The four main areas of the box model: 
+content box, padding box, border box and margin box
+https://codepen.io/web-dot-dev/pen/BaReoEV
+
+Outline effect on the box model
+https://codepen.io/web-dot-dev/pen/XWprGea
+
+
+
+Open Chrome DevTools
+https://developer.chrome.com/docs/devtools/open/
+
+
+
+Box sizing effects on the box model
+https://codepen.io/web-dot-dev/pen/oNBvVpM
+
+
+
+https://piccalil.li/blog/a-modern-css-reset/
+
+
+
+https://web.dev/learn/css/selectors/
+
+
+
+https://web.dev/learn/css/pseudo-classes
+
+
+
+https://web.dev/learn/css/pseudo-elements
+
+
+
+Descendant combinator, recursive effect
+https://codepen.io/web-dot-dev/pen/BapBbGN
+
+
+
+Next sibling selector
+https://codepen.io/web-dot-dev/pen/JjEPzwB
+
+
+
+Custom toggle
+subsequent selector
+https://codepen.io/web-dot-dev/pen/ZELzPPX
+
+
+
+Next sibling selector - out of control margin
+https://codepen.io/web-dot-dev/pen/ExZYMJL
+
+
+
+Next sibling selector - controlled with child combinator
+https://codepen.io/web-dot-dev/pen/dyNbrEr
+
+
+
+https://web.dev/learn/css/specificity
+
+
+
+https://web.dev/learn/css/the-cascade/
+
+
+
+https://codepen.io/web-dot-dev/pen/GRrgMOm
+
+
+
+Cascade position order
+https://codepen.io/web-dot-dev/pen/NWdPaWv
+
+
+
+clamp()
+https://codepen.io/web-dot-dev/pen/xxgbPMP
+
+
+
+https://web.dev/learn/css/specificity/
+
+
+
+https://codepen.io/web-dot-dev/pen/YzNKMXm
+
+
+
+Matching specificity
+https://codepen.io/web-dot-dev/pen/abpoxdR
+
+
+
+Repetition boosts specificity
+https://codepen.io/web-dot-dev/pen/zYNOXBJ
+
+
+
+https://web.dev/learn/css/color/
+
+
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#color_keywords
+
+
+
+https://web.dev/learn/css/sizing/
+
+
+
+https://www.w3.org/TR/css-values-4
+
+
+
+Multicolumn 1
+countries
+https://codepen.io/web-dot-dev/pen/gOgrpzO
+
+
+
+https://web.dev/learn/css/flexbox/
+
+
+
+https://developer.mozilla.org/docs/Web/CSS/CSS_Flexible_Box_Layout
+
+
+
+https://web.dev/learn/css/grid/
+
+
+
+https://developer.chrome.com/docs/devtools/css/grid/
+
+
+
+Extra space in the grid container
+https://codepen.io/web-dot-dev/pen/rNjjMVd
+
+
+
+https://web.dev/learn/css/spacing/
+The margin shorthand applies properties in a particular order: 
+top, right, bottom and left.
+ You can remember these with trouble: 
+TRouBLe.
+
+
+
+Flexbox and auto margins
+https://codepen.io/web-dot-dev/pen/poRELbR
+
+
+
+https://www.smashingmagazine.com/2019/07/margins-in-css/
+
+
+
+https://web.dev/learn/css/pseudo-elements/
+
+
+
+https://web.dev/learn/css/pseudo-classes/
+
+
+
+https://www.w3.org/TR/css-syntax-3/#anb-microsyntax
+
+
+
+https://web.dev/learn/css/focus/
+
+
+
+https://web.dev/learn/css/z-index/
+
+
+
+https://web.dev/learn/css/functions/
+
+
+
+https://web.dev/learn/css/animations/
+
+
+
+https://web.dev/learn/css/lists/
+https://codepen.io/web-dot-dev/pen/WNOrZNG
+https://codepen.io/web-dot-dev/pen/ExXPwxL
+
+
+
+https://web.dev/learn/css/transitions/
+
+
+
+
+https://web.dev/learn/css/backgrounds/
+
+
+
+https://web.dev/learn/css/typography/
+
+
+
+Rachel Andrew
+Staff technical writer at Google. CSSWG member.
+https://github.com/rachelandrew/grid-by-example

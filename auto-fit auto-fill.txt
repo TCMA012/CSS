@@ -1,0 +1,2 @@
+auto-fit or auto-fill
+https://defensivecss.dev/tip/auto-fit-fill/
